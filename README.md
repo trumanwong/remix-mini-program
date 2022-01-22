@@ -2,7 +2,9 @@
 
 表情包生成器小程序
 
-部分模板来自[sorry](https://github.com/xtyxtyx/sorry)
+鬼畜gif部分模板来自[sorry](https://github.com/xtyxtyx/sorry)
+
+诺基亚短信来自[zzkia](https://github.com/dcalsky/zzkia.git)
 
 [Web Demo](https://www.trumanwl.com/tools/remix)
 
