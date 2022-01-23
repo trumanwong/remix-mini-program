@@ -10,11 +10,11 @@
 
 微信小程序（鬼畜动图生成器）
 
-![鬼畜动图生成器](./remix-app.png)
+![鬼畜动图生成器](https://cdn.trumanwl.com/static/images/hotlink-ok/remix-qrcode.png)
 
 ## 安装指引
 
-本项目使用Vue3+NutUI编写，[后端地址](https://github.com/trumanwong/remix-api)
+本项目使用Vue3+Taro+NutUI编写，[后端地址](https://github.com/trumanwong/remix-api)
 
 
 ```shell
